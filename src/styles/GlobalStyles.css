@@ -24,15 +24,18 @@ body {
 	font-family: 'Poppins', sans-serif;
 	width: 100%;
 	min-height: 100vh;
-	background-color: var(white);
+	background-color: white;
 }
 * {
+	margin: 0;
+    padding: 0;
+	box-sizing: border-box;
 	font-family: 'Poppins', sans-serif;
 }
 .container {
-	width: 90%;
-	max-width: 1200px;
-    margin: 50px 25px;
-	
-    background-color: var(--black);
+	max-width: 1000px;
+    margin: 4rem auto;
+	border-radius: 30px;
+	box-shadow: 5px 5px 5px 5px gray;
+    background-color: #333;
 }

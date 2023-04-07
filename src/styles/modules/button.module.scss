@@ -11,22 +11,22 @@
 	cursor: pointer;
 	overflow: hidden;
 	&__select {
-		color: var(--black-2);
+		color: #444;
 		font-family: Poppins;
 		padding: 1rem;
 		border: none;
-		background-color: var(--bg-3);
+		background-color: white;
 
 		width: 150px;
 		cursor: pointer;
 	}
 }
 .button--primary {
-	background-color: var(--primaryPurple);
+	background-color: #ff9900;
 	color: var(--white);
 }
 .button--secondary {
-	background-color: var(--bg-3);
+	background-color: white;
 	color: var(--black-1);
 }
 .button {
@@ -46,17 +46,17 @@
 		font-family: Poppins;
 		padding: 1rem;
 		border: none;
-		background-color: var(--bg-3);
+		background-color: white;
 
 		width: 150px;
 		cursor: pointer;
 	}
 }
 .button--primary {
-	background-color: var(--primaryPurple);
+	background-color: #ff9900;
 	color: var(--white);
 }
 .button--secondary {
-	background-color: var(--bg-3);
+	background-color: white;
 	color: var(--black-1);
 }
