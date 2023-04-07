@@ -6,7 +6,7 @@
 	padding: 0;
 }
 :root {
-	--primaryPurple: #646ff0;
+	--primaryPurple: #ff9900;
 	--black-1: #646681;
 	--black-2: #585858;
 	--bg-1: #f8f8ff;
@@ -36,6 +36,6 @@ body {
 	max-width: 1000px;
     margin: 4rem auto;
 	border-radius: 30px;
-	box-shadow: 5px 5px 5px 5px gray;
+	box-shadow: 3px 3px 3px 3px gray;
     background-color: #333;
 }
