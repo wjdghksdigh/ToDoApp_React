@@ -1,4 +1,4 @@
-#Hwantech ToDoApp
+# Hwantech ToDoApp
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-##ToDoApp 캡쳐화면
+## ToDoApp 캡쳐화면
 
 <img width="1066" alt="스크린샷 2023-04-12 오후 8 22 32" src="https://user-images.githubusercontent.com/78897615/231442773-4c4dbc1b-23d4-4258-b589-9d1b11e3feac.png">
 
