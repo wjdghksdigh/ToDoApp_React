@@ -29,6 +29,8 @@
 4. Reducer 함수는 Action 객체의 값을 확인하고, 그 값에 따라 전역 상태 저장소 Store의 상태를 변경
 5. 상태가 변경되면, React는 화면을 다시 렌더링
 
+<br>
+
 ## ToDoApp 캡쳐화면
 
 <img width="1066" alt="스크린샷 2023-04-12 오후 8 22 32" src="https://user-images.githubusercontent.com/78897615/231442773-4c4dbc1b-23d4-4258-b589-9d1b11e3feac.png">
