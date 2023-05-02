@@ -1,4 +1,4 @@
-# Hwantech ToDoApp
+# Hwantech ToDoApp😃
 
 <br>
 
@@ -7,7 +7,6 @@
 1. Redux
 2. Scss
 3. Modal
-
 <br>
 
 ## 개발과정(실행과정)
